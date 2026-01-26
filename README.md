@@ -2,7 +2,7 @@
 
 🧬 NDM-1 + Phosphonate Inhibitor Systems (AMBER Input Files)
 
-This repository contains the ready-to-run topology and coordinate files used in the molecular dynamics simulations described in the manuscript: “Structural and Mechanistic Insights into Noncovalent Inhibition of NDM-1 by Heteroaryl Phosphonates” submitted to RSC Advances.
+This repository contains the ready-to-run topology and coordinate files used in the molecular dynamics simulations described in the manuscript: “Multiscale Design Principles for Noncovalent Heteroaryl Phosphonate Inhibitors Targeting NDM-1” (DOI: https://doi.org/10.1039/D5ME00205B).
 
 📦 Contents of the Repository
 
@@ -22,8 +22,7 @@ These files represent the fully solvated and neutralized systems, ready for mini
 
 If you use these systems, please cite:
 
-Moraes Balieiro et al.
-Structural and Mechanistic Insights into Noncovalent Inhibition of NDM-1 by Heteroaryl Phosphonates, RSC Advances, 2025. (Manuscript under review)
+Moraes Balieiro et al. Multiscale Design Principles for Noncovalent Heteroaryl Phosphonate Inhibitors Targeting NDM-1, Mol. Syst. Des. Eng., 2026 (DOI: https://doi.org/10.1039/D5ME00205B).
 
 📩 Contact
 
